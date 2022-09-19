@@ -1,4 +1,7 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# gram's Project doc list
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+* Setting
+* [Rules](https://github.com/Team-gram/Documents/tree/main/docs)
+  * 코딩 컨벤션
+  * 커밋 컨벤션
+  * 브랜치와 풀 리퀘스트 전략
