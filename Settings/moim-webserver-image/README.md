@@ -7,9 +7,10 @@
 
 * Development Stack
   * open jdk 11
-  * Docker
+  * docker
   * intelliJ
+  * Vim
   * Postman
+  * git
 * etc
   * Chrome Browser
-  * Vim editor
