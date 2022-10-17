@@ -27,13 +27,15 @@
   * open jdk 11
   * nodejs
   * npm
-  * intelliJ
+  * mysql
   * ~~flutter~~
+  * Postman
+  * git
+* tools
+  * intelliJ
   * ~~Android Studio~~
   * Visual Studio Code
   * Vim
-  * Postman
-  * git
 * etc
   * Chrome Browser
   * gparted
