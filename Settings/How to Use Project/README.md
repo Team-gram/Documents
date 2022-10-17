@@ -1,4 +1,4 @@
-### moim Spec.
+### Project Spec.
 
 ```
 Project
@@ -22,4 +22,11 @@ Dependencies
 - Spring Boot DevTools
 - H2 Database
 - Spring Data JPA
+```
+
+### Project Clone
+
+```
+cd ~/Desktop
+git clone https://github.com/Team-gram/moim.git
 ```
