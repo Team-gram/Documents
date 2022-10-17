@@ -37,5 +37,3 @@
 * etc
   * Chrome Browser
   * gparted
-
-```
