@@ -35,6 +35,7 @@
   * intelliJ
   * ~~Android Studio~~
   * Visual Studio Code
+  * mysql-workbench-community
   * Vim
 * etc
   * Chrome Browser
