@@ -25,12 +25,17 @@
 * Development Software
   * docker
   * open jdk 11
+  * nodejs
+  * npm
   * intelliJ
-  * flutter
-  * Android Studio
+  * ~~flutter~~
+  * ~~Android Studio~~
+  * Visual Studio Code
   * Vim
   * Postman
   * git
 * etc
   * Chrome Browser
   * gparted
+
+```
