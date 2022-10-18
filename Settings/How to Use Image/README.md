@@ -35,6 +35,7 @@
   * intelliJ
   * Visual Studio Code
   * mysql-workbench-community
+  * connect mysql-workbench-community:password-manager-service :password-manager-service
   * Vim
   * ~~Android Studio~~
 * etc
