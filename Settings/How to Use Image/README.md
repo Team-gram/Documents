@@ -2,7 +2,7 @@
 
 #### 1. 저장
 
-* 위치 : C:\Users\(사용자 이름)\Documents\Virtual Machines
+* 위치 : C:\Users\\(사용자 이름)\Documents\Virtual Machines
 
 #### 2. Vmware 에 환경 등록
 
@@ -28,15 +28,15 @@
   * nodejs
   * npm
   * mysql
-  * ~~flutter~~
   * Postman
   * git
+  * ~~flutter~~
 * tools
   * intelliJ
-  * ~~Android Studio~~
   * Visual Studio Code
   * mysql-workbench-community
   * Vim
+  * ~~Android Studio~~
 * etc
   * Chrome Browser
   * gparted
