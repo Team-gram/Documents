@@ -6,9 +6,9 @@
 
 #### 2. Vmware 에 환경 등록
 
-![image](https://user-images.githubusercontent.com/48989903/191736735-f00a4c67-49ea-4210-bc72-4fe5274feeea.png)
+<img src="https://user-images.githubusercontent.com/48989903/191736735-f00a4c67-49ea-4210-bc72-4fe5274feeea.png" width="480" height="320">
 
-![image](https://user-images.githubusercontent.com/48989903/191736789-f531651b-7b1c-4814-b31b-fd3299eb2629.png)
+<img src="https://user-images.githubusercontent.com/48989903/191736789-f531651b-7b1c-4814-b31b-fd3299eb2629.png" width="480" height="320">
 
 * gram.vmx 를 선택하면 됨
 
@@ -35,7 +35,7 @@
   * intelliJ
   * Visual Studio Code
   * mysql-workbench-community
-  * connect mysql-workbench-community:password-manager-service :password-manager-service
+    * `sudo snap connect mysql-workbench-community:password-manager-service :password-manager-service`
   * Vim
   * ~~Android Studio~~
 * etc
