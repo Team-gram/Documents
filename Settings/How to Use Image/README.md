@@ -17,8 +17,8 @@
 * name : gram
 * username : gramee
 * password : 1234
-* RAM : 4GB
-* disk : 40GB
+* RAM : ~~4GB~~ 8GB
+* disk : ~~20GB~~ 40GB
 
 ### Installed software
 
