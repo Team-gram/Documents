@@ -3,6 +3,7 @@
 #### 0. 이미지 (분할 압축)
 
 * https://drive.google.com/file/d/1sdxRbsKja3j5zEaFafW4thpYTRiCNf_K/view?usp=sharing
+* https://drive.google.com/file/d/1IkAPrC0ZKVLDygYhRiNbMmU5qkTugYSq/view?usp=sharing
 
 #### 1. 저장
 
