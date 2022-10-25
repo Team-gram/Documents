@@ -1,5 +1,9 @@
 ## Install
 
+#### 0. 이미지 (분할 압축)
+
+* https://drive.google.com/file/d/1sdxRbsKja3j5zEaFafW4thpYTRiCNf_K/view?usp=sharing
+
 #### 1. 저장
 
 * 위치 : C:\Users\\(사용자 이름)\Documents\Virtual Machines
