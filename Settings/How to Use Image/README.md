@@ -46,3 +46,7 @@
 * etc
   * Chrome Browser
   * gparted
+
+### 한글 추가 가이드
+
+https://study-ihl.tistory.com/65
