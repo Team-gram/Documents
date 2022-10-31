@@ -1,9 +1,13 @@
-```
-cd ~/Desktop/moim/frontend
-```
+### Precondition
 
 ```
 npm install axios
+```
+
+### Build
+
+```
+cd ~/Desktop/moim/frontend
 ```
 
 ```
