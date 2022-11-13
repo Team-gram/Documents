@@ -1,5 +1,7 @@
-1. https://editor.swagger.io
+1. Download above .json file
 
-2. File - Import file
+2. https://editor.swagger.io
 
-3. choose .json file
+3. File - Import file
+
+4. Choose .json file
