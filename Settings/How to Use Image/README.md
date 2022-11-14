@@ -46,6 +46,7 @@
 * etc
   * Chrome Browser
   * gparted
+  * openssh-server
 
 ### 한글 추가 가이드
 
